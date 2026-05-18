@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+ <html lang="pt-br">
+    <title>
+
+    </title>
+    <head> </head>
+    <meta charset="utf-8">
+<h1>Lista de Produtos do Estoque</h1>
+
+<ul id="lista"></ul>
+
+
+<script>
+fetch('/api/produtos')
+  .then(res => res.json())
+  .then(produtos => {
+    const lista = document.getElementById('lista');
+
+    produtos.forEach(produto => {
+      const item = document.createElement('li');
+      item.textContent = `${produto.nome} - R$ ${produto.preco}`;
+      lista.appendChild(item);
+    });
+  });
+</script>
+ </html>
