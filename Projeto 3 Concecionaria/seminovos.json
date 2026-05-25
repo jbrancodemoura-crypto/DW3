@@ -1,0 +1,32 @@
+[
+    {
+        "modelo": "Uno 2015",
+        "positivo": "Muito econômico",
+        "negativo": "Pouca tecnologia"
+    },
+    {
+        "modelo": "Palio 2014",
+        "positivo": "Manutenção barata",
+        "negativo": "Acabamento simples"
+    },
+    {
+        "modelo": "Celta 2012",
+        "positivo": "Peças acessíveis",
+        "negativo": "Pouco conforto"
+    },
+    {
+        "modelo": "Fiesta 2013",
+        "positivo": "Bom desempenho",
+        "negativo": "Consumo médio"
+    },
+    {
+        "modelo": "Sandero 2016",
+        "positivo": "Espaçoso",
+        "negativo": "Interior simples"
+    },
+    {
+        "modelo": "Fox 2015",
+        "positivo": "Boa dirigibilidade",
+        "negativo": "Seguro caro"
+    }
+]

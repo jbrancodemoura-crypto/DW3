@@ -1,0 +1,26 @@
+[
+    {
+        "modelo": "Gol",
+        "preco": "R$ 35.000"
+    },
+    {
+        "modelo": "Onix",
+        "preco": "R$ 52.000"
+    },
+    {
+        "modelo": "HB20",
+        "preco": "R$ 55.000"
+    },
+    {
+        "modelo": "Corolla",
+        "preco": "R$ 120.000"
+    },
+    {
+        "modelo": "Civic",
+        "preco": "R$ 110.000"
+    },
+    {
+        "modelo": "Compass",
+        "preco": "R$ 145.000"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "modelo": "Tracker 2025",
+        "descricao": "SUV moderno e econômico.",
+        "foto":  "/imagens/tracker.jpg"
+    },
+    {
+        "modelo": "Creta 2025",
+        "descricao": "Conforto e tecnologia.",
+        "foto":  "/imagens/creta.jpg"
+    },
+    {
+        "modelo": "T-Cross",
+        "descricao": "SUV compacto premium.",
+        "foto":  "/imagens/t-cross.jpg"
+    },
+    {
+        "modelo": "Pulse",
+        "descricao": "Visual esportivo.",
+        "foto":  "/imagens/pulse.jpg"
+    },
+    {
+        "modelo": "Kwid",
+        "descricao": "Compacto econômico.",
+        "foto":  "/imagens/kwid.jpg"
+    },
+    {
+        "modelo": "Polo",
+        "descricao": "Excelente desempenho.",
+        "foto":  "/imagens/polo.jpg"
+    }
+]
