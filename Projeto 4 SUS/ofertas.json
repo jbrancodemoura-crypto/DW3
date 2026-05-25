@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Mutirão de Catarata",
+        "descricao": "Atendimento oftalmológico gratuito.",
+        "vagas": "120 vagas"
+    },
+    {
+        "nome": "Vacinação Drive-Thru",
+        "descricao": "Vacinação rápida sem sair do veículo.",
+        "vagas": "300 vagas"
+    },
+    {
+        "nome": "Atendimento Odontológico Corujão",
+        "descricao": "Atendimento odontológico noturno.",
+        "vagas": "80 vagas"
+    },
+    {
+        "nome": "Campanha Contra Dengue",
+        "descricao": "Prevenção e orientação comunitária.",
+        "vagas": "200 vagas"
+    },
+    {
+        "nome": "Consulta Cardiológica",
+        "descricao": "Avaliação preventiva cardíaca.",
+        "vagas": "60 vagas"
+    },
+    {
+        "nome": "Programa Saúde da Mulher",
+        "descricao": "Exames preventivos e acompanhamento.",
+        "vagas": "150 vagas"
+    }
+]

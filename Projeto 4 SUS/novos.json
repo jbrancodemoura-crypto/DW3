@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Nova UPA Zona Sul",
+        "descricao": "Unidade moderna com atendimento 24 horas.",
+        "foto": "/imagens/upa.jpg"
+    },
+    {
+        "nome": "Tomógrafo Digital",
+        "descricao": "Equipamento moderno para exames rápidos.",
+        "foto": "/imagens/tomografo.jpg"
+    },
+    {
+        "nome": "Ambulância Avançada",
+        "descricao": "Veículo equipado para emergências.",
+        "foto": "/imagens/ambulancia.jpg"
+    },
+    {
+        "nome": "Medicamento Oncológico",
+        "descricao": "Novo medicamento incorporado ao SUS.",
+        "foto": "/imagens/remedio.jpg"
+    },
+    {
+        "nome": "Centro Pediátrico",
+        "descricao": "Atendimento especializado infantil.",
+        "foto": "/imagens/pediatria.jpg"
+    },
+    {
+        "nome": "Equipamento de Raio-X",
+        "descricao": "Maior precisão em diagnósticos.",
+        "foto": "/imagens/raiox.jpg"
+    }
+]

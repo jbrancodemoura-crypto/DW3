@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "UBS Vila Nova",
+        "positivo": "Equipe médica eficiente",
+        "negativo": "Falta de medicamentos"
+    },
+    {
+        "nome": "UPA Central",
+        "positivo": "Atendimento rápido",
+        "negativo": "Superlotação"
+    },
+    {
+        "nome": "Hospital Municipal",
+        "positivo": "Boa infraestrutura",
+        "negativo": "Poucos leitos"
+    },
+    {
+        "nome": "UBS Esperança",
+        "positivo": "Boa vacinação",
+        "negativo": "Fila extensa"
+    },
+    {
+        "nome": "Hospital Regional",
+        "positivo": "Especialistas disponíveis",
+        "negativo": "Equipamentos antigos"
+    },
+    {
+        "nome": "UPA Norte",
+        "positivo": "Boa localização",
+        "negativo": "Poucos profissionais"
+    }
+]
